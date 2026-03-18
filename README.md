@@ -1,7 +1,7 @@
 
 <p align="center">
-<h1> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia Saini%20|%20Data%20Analyst&fontSize=32&fontAlignY=40&animation=fadeIn"/> </h1>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia Saini%20|%20Data%20Analyst&fontSize=32&fontAlignY=40&animation=fadeIn"/> 
 </p>
 
 ---
@@ -114,55 +114,5 @@ Currently working on  **MatRisk Project — Material Intelligence & Commodity
 <p align="center">
 <i>Building data-driven solutions through analytics and storytelling.</i>
 </p>
- ----------
+ 
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontSize=32&fontAlignY=40&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3500&color=0A66C2&center=true&vCenter=true&width=800&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analytics+Portfolio;Open+to+Data+Analyst+Opportunities">
-</p>
-
---------------
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2500&pause=1200&color=0A66C2&center=true&vCenter=true&width=850&lines=Featured+Project:+MatRisk+AI+-+Material+Intelligence+Model;COVID-19+India+Data+Analysis+-+Time+Series+Analytics;HR+Attrition+Dashboard+-+Power+BI+Insights;Fraud+Detection+Analysis+-+Python+EDA;Airline+Revenue+Analytics+-+Business+KPIs">
-</p>
-----------------------
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1E90FF&height=120&section=header&text=Featured%20Project:%20MatRisk%20AI&fontSize=26&animation=fadeIn"/>
-</p>
---------------------------
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:1E90FF&height=120&section=header&text=Featured%20Project:%20MatRisk%20AI&fontSize=26&animation=fadeIn"/>
-</p>
----------------
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&duration=2200&pause=900&color=0A66C2&center=true&width=800&lines=Python+Projects;Power+BI+Dashboards;Excel+Automation;SQL+Analytics">
-</p>
---------------------
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontSize=32&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2500&pause=1200&color=0A66C2&center=true&vCenter=true&width=850&lines=Featured+Project:+MatRisk+AI;COVID-19+India+Data+Analysis;HR+Attrition+Dashboard;Fraud+Detection+Analytics;Airline+Revenue+Insights">
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-</p>
