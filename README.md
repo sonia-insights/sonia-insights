@@ -1,4 +1,4 @@
-<h1 align="center">Sonia | Data Analyst Portfolio</h1>
+<h1 align="center">Sonia Saini | Data Analyst Portfolio</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
@@ -7,7 +7,17 @@
 ---
 
 <p align="center">
-<b>Actively seeking Data Analyst roles • Portfolio built with real business analytics projects</b>
+
+<a href="https://www.linkedin.com/in/sonia-saini-">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:sainisonia7472@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=for-the-badge&color=blue">
+
 </p>
 
 ---
@@ -26,36 +36,25 @@ Currently working on **MatRisk Project — Material Intelligence & Commodity For
 
 ---
 
-## Technology Stack
+## Skills
 
-<p align="center">
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge">
+### Visualization & BI
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
 
-</p>
+### Databases
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
----
-
-## Skill Progress
-
-Python  
-![Python](https://progress-bar.dev/85/?title=Python)
-
-Power BI  
-![PowerBI](https://progress-bar.dev/80/?title=PowerBI)
-
-Excel  
-![Excel](https://progress-bar.dev/90/?title=Excel)
-
-SQL  
-![SQL](https://progress-bar.dev/70/?title=SQL)
-
-Data Visualization  
-![Viz](https://progress-bar.dev/85/?title=Visualization)
-
+### Tools
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ---
 
 ## Portfolio Structure
@@ -68,6 +67,31 @@ Data Visualization
 | SQL Analysis | sql-projects |
 
 ---
+
+## Portfolio Domains
+
+<p align="center">
+
+<a href="https://github.com/sonia-insights/python-projects">
+<img src="https://img.shields.io/badge/Python_Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://github.com/sonia-insights/powerbi-projects">
+<img src="https://img.shields.io/badge/PowerBI_Dashboards-F2C811?style=for-the-badge&logo=powerbi">
+</a>
+
+<a href="https://github.com/sonia-insights/excel-projects">
+<img src="https://img.shields.io/badge/Excel_Analysis-217346?style=for-the-badge&logo=microsoft-excel">
+</a>
+
+<a href="https://github.com/sonia-insights/sql-projects">
+<img src="https://img.shields.io/badge/SQL_Projects-336791?style=for-the-badge&logo=postgresql">
+</a>
+
+</p>
+
+---
+
 
 ## Featured Projects
 
