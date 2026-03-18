@@ -1,232 +1,104 @@
-# Hi 👋 I'm Sonia
+<h1 align="center">Sonia | Data Analyst Portfolio</h1>
 
- Aspiring Data Analyst | Python | SQL | Power BI  
- Passionate about transforming raw data into meaningful insights  
- Building real-world analytics projects using government and industry datasets
-
----
-
-##  About Me
-
--  Strong interest in Data Analytics & Business Intelligence
--  Working with Python (Pandas, NumPy, Matplotlib)
--  Building KPI-driven analytical projects
--  Currently learning Advanced Analytics & Time-Series Analysis
--  Goal: Become a Data Analyst solving real business problems
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+</p>
 
 ---
 
-##  Skills & Tools
+<p align="center">
+<b>Actively seeking Data Analyst roles • Portfolio built with real business analytics projects</b>
+</p>
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)
+---
 
-**Data Analysis**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Data Cleaning & EDA
-- KPI Development
+## About Me
+
+Data Analyst focused on transforming raw datasets into meaningful insights using analytics, visualization, and statistical reasoning.
+
+- Data Cleaning & Analysis
 - Time Series Analysis
+- Business Intelligence Dashboards
+- Data Visualization & Reporting
+- Cross-domain analytics (Finance + Materials Intelligence)
 
-**Visualization**
-- Power BI
-- Matplotlib & Seaborn
-
-**Database**
-- SQL (MySQL)
+Currently working on **MatRisk Project — Material Intelligence & Commodity Forecasting**.
 
 ---
 
-##  Featured Projects
+## Technology Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/PowerBI-Advanced-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge">
+
+</p>
 
 ---
 
-###  COVID-19 India Data Analysis
+## Skill Progress
 
-**Tools:** Python | Pandas | Matplotlib
+Python  
+![Python](https://progress-bar.dev/85/?title=Python)
 
-**Situation**
-Government COVID datasets were separated across cases, testing, and vaccination data.
+Power BI  
+![PowerBI](https://progress-bar.dev/80/?title=PowerBI)
 
-**Task**
-Create a unified analytical dataset and generate insights.
+Excel  
+![Excel](https://progress-bar.dev/90/?title=Excel)
 
-**Action**
-- Cleaned multiple datasets
-- Standardized state naming
-- Built KPIs and trends
-- Performed time-based and state-wise analysis
+SQL  
+![SQL](https://progress-bar.dev/70/?title=SQL)
 
-**Result**
-Identified infection waves, testing efficiency, and vaccination coverage trends.
-
- Repository: https://github.com/sonia-insights/covid-19-india-data-analysis
-
----
-### Fraud Detection Analysis — Python**
-
-**Situation:**
-Financial transactions required monitoring to detect suspicious behavior.
-
-**Task:**
-Analyze transaction patterns to identify anomalies.
-
-***Action:**
-
-Explored transaction dataset
-
-Used visualization techniques for anomaly detection
-
-Compared behavioral patterns across transactions
-
-**Result:**
-
-Highlighted fraud-prone patterns
-
-Improved understanding of abnormal transactions
+Data Visualization  
+![Viz](https://progress-bar.dev/85/?title=Visualization)
 
 ---
 
-###  MatRisk AI – Material Risk Analysis
+## Portfolio Structure
 
-**Tools:** Python | Data Analysis | Time Series
-
-**Situation**
-Commodity prediction models ignore material science signals.
-
-**Task**
-Analyze relationships between material properties and commodity prices.
-
-**Action**
-- Cleaned multi-domain datasets
-- Performed time-series analysis
-- Studied price volatility patterns
-
-**Result**
-Discovered cross-domain signals affecting commodity behavior.
+| Domain | Repository Section |
+|---|---|
+| Python Analytics | python-projects |
+| Power BI Dashboards | powerbi-projects |
+| Excel Analysis | excel-projects |
+| SQL Analysis | sql-projects |
 
 ---
 
-### Inventory Management System — Advanced Excel
+## Featured Projects
 
-**Situation:**
-Manual inventory tracking caused stock mismatches and inefficient monitoring.
-
-**Task:**
-Develop a system to track stock levels, product movement, and reorder requirements automatically.
-
-**Action:**
-
-Built automated inventory tracker using Advanced Excel
-
-Applied formulas, Pivot Tables, and data validation
-
-Designed stock monitoring and reorder alerts
-
-**Result:**
-
-Reduced manual tracking errors
-
-Improved inventory visibility
-
-Enabled faster stock decision-making
+| Project | Situation | Task | Action | Result | Tools |
+|---|---|---|---|---|---|
+| HR Attrition Dashboard | Employee turnover analysis | Identify drivers | Built KPI dashboard | Revealed attrition patterns | Power BI |
+| COVID-19 Analysis | Pandemic trend study | Time analysis | Python visualization | Identified waves | Python |
+| Fraud Detection | Suspicious transactions | Detect anomalies | Pattern visualization | Risk insights | Python |
+| Supermarket Sales | Sales performance | Category analysis | Comparative charts | Business insights | Python |
+| Airline Revenue Analytics | Revenue evaluation | Route performance | Data exploration | Revenue optimization insights | Analytics |
 
 ---
 
-### BlinkIt Sales Analysis — Advanced Excel
+## GitHub Analytics
 
-**Situation:**
-Business lacked insights into product and category-level sales performance.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sonia-insights&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-**Task:**
-Analyze sales data to identify top-performing products and demand patterns.
-
-**Action:**
-
-Cleaned sales dataset
-
-Created Pivot Tables and interactive dashboards
-
-Built charts for category and product comparison
-
-**Result:**
-
-Identified top-selling products
-
-Revealed demand trends
-
-Supported data-driven sales planning
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-insights&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
-### HR Attrition Analysis Dashboard — Power BI
+## Connect
 
-**Situation:**
-Organization lacked visibility into employee attrition causes.
-
-**Task:**
-Analyze workforce data and identify drivers of employee turnover.
-
-**Action:**
-
-Cleaned HR dataset
-
-Created DAX measures and KPIs
-
-Built interactive Power BI dashboard
-
-Visualized department, age, and salary patterns
-
-**Result:**
-
-Identified high-risk departments
-
-Highlighted demographic attrition trends
-
-Supported HR retention strategy decisions
+LinkedIn: www.linkedin.com/in/sonia-saini-
+Email: sainisonia7472@gmail.com
 
 ---
 
-### Airline Revenue Analytics — Data Analysis Project
-
-**Situation:**
-Airline operations lacked clear understanding of revenue performance across routes.
-
-**Task:**
-Evaluate revenue metrics and passenger trends.
-
-**Action:**
-
-Analyzed operational airline dataset
-
-Calculated load factor and revenue metrics
-
-Built visual performance reports
-
-**Result:**
-
-Identified profitable routes
-
-Highlighted seasonal demand trends
-
-Supported operational decision-making
-
-
-## GitHub Stats
-
-![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-insights&show_icons=true&theme=default)
-
----
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-insights&layout=compact)
-
----
-
-##  Connect With Me
-
-- LinkedIn: www.linkedin.com/in/sonia-saini-
-
--  Email: sainisonia7472@gmail.com
-
----
-
-⭐ *Always learning, always building.*
+<p align="center">
+<i>Building data-driven solutions through analytics and storytelling.</i>
+</p>
