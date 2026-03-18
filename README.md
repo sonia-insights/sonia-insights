@@ -1,11 +1,11 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=140&section=header&text=SoniaSaini%20|%20Data%20Analyst&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
 
 <p align="top left">
@@ -113,6 +113,116 @@ Currently working on :
 <p align="center">
 <i>Building data-driven solutions through analytics and storytelling.</i>
 </p>
+
+---
+
+
+<!-- ================= HEADER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
+</p>
+
+<!-- ================= TYPING INTRO ================= -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analytics+Portfolio;Business+Insight+Driven+Projects;Open+to+Data+Analyst+Opportunities">
+</p>
+
+<!-- ================= CONTACT ROW ================= -->
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="48" height="48"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=0A66C2"
+width="120" height="48"/>
+
+</p>
+
+---
+
+## About Me
+
+Data Analyst focused on transforming raw data into business insights using Python, SQL, Power BI, and Excel.  
+Experienced in data cleaning, exploratory analysis, KPI development, and dashboard storytelling.
+
+---
+
+## Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/PowerBI-111111?style=flat-square&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Matplotlib-111111?style=flat-square"/>
+
+</p>
+
+---
+
+## Featured Projects (Auto Showcase)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&duration=2400&pause=1000&color=1F6FEB&center=true&width=850&lines=MatRisk+AI+-+Material+Intelligence+Analytics;COVID-19+India+Time+Series+Analysis;HR+Attrition+Dashboard+-+Power+BI;Fraud+Detection+Analytics;Airline+Revenue+Insights">
+</p>
+
+---
+
+## Portfolio Structure
+
+| Domain | Repository |
+|---|---|
+| Python Analytics | python-projects |
+| Power BI Dashboards | powerbi-projects |
+| Excel Analysis | excel-projects |
+| SQL Analysis | sql-projects |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sonia-insights&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-insights&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonia-insights&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Current Focus
+
+- Advanced Python Data Analysis
+- Time Series Analytics
+- Business KPI Modeling
+- Portfolio Project Development
+
+---
+
+## Connect
+
+LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+Email: YOUR_EMAIL@gmail.com
 
 
 
