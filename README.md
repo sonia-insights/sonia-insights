@@ -124,3 +124,60 @@ Currently working on :
 ---
 
 
+
+<!real logo profile views bada krna hai and recuitment animated banner font change and thoda pass me krna hai >
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:111111&height=2&section=header"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/PowerBI-111111?style=flat-square&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square"/>
+
+</p>
+
+## Project Domains
+
+<p align="center">
+
+<a href="https://github.com/sonia-insights/python-projects">
+<img src="https://img.shields.io/badge/Python%20Projects-1F6FEB?style=for-the-badge&logo=python"/>
+</a>
+
+<a href="https://github.com/sonia-insights/powerbi-projects">
+<img src="https://img.shields.io/badge/PowerBI%20Dashboards-1F6FEB?style=for-the-badge&logo=powerbi"/>
+</a>
+
+<a href="https://github.com/sonia-insights/excel-projects">
+<img src="https://img.shields.io/badge/Excel%20Analysis-1F6FEB?style=for-the-badge&logo=microsoft-excel"/>
+</a>
+
+<a href="https://github.com/sonia-insights/sql-projects">
+<img src="https://img.shields.io/badge/SQL%20Analytics-1F6FEB?style=for-the-badge&logo=mysql"/>
+</a>
+
+</p>
+## Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/sonia-insights/covid-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonia-insights&repo=covid-analysis&theme=github_dark"/>
+</a>
+
+<a href="https://github.com/sonia-insights/matrisk-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sonia-insights&repo=matrisk-ai&theme=github_dark"/>
+</a>
+
+</p>
+## GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sonia-insights&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-insights&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
