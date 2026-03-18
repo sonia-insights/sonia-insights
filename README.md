@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center" style="margin-top:-15px;">
+<p align="center" style="margin-top:-30px;">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
@@ -43,7 +43,7 @@ Currently working on :
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,PowerBI,Excel"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge">
