@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=180&section=header&text=Sonia%20Saini%20|%20Data%20Analyst&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=180&section=header&text=Sonia%20Saini%20&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn"/>
 </p>
 
 
-<p align="center" style="margin-top:-30px;">
+<p align="center" style="margin-top:-50px;">
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
