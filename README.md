@@ -1,82 +1,232 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Sonia Saini 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Excel • Power BI • SQL • Python</h3>
+# Hi 👋 I'm Sonia
+
+ Aspiring Data Analyst | Python | SQL | Power BI  
+ Passionate about transforming raw data into meaningful insights  
+ Building real-world analytics projects using government and industry datasets
 
 ---
 
-### 📍 Location  
-Vadodara, Gujarat  
-📧 Email: sainisonia7472@gmail.com  
+##  About Me
+
+-  Strong interest in Data Analytics & Business Intelligence
+-  Working with Python (Pandas, NumPy, Matplotlib)
+-  Building KPI-driven analytical projects
+-  Currently learning Advanced Analytics & Time-Series Analysis
+-  Goal: Become a Data Analyst solving real business problems
 
 ---
 
-## 🔍 About Me  
-I’m an aspiring Data Analyst passionate about transforming raw data into meaningful insights.  
-Currently building projects that involve data cleaning, dashboard development, and business analysis using Excel, Power BI, SQL, and Python.
+##  Skills & Tools
 
-I love solving problems, finding trends, and presenting insights that help in decision-making.
+![Skills](https://skillicons.dev/icons?i=python,mysql,git,github,vscode)
 
----
+**Data Analysis**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning & EDA
+- KPI Development
+- Time Series Analysis
 
-## 🛠️ Skills
+**Visualization**
+- Power BI
+- Matplotlib & Seaborn
 
-### **Data Analysis Tools**
-- Microsoft Excel (Advanced)  
-- Power BI (DAX, Data Modeling, Dashboards)  
-- SQL (Joins, CTE, Subqueries, Aggregations)
-- Python (Pandas, NumPy – learning Matplotlib/Seaborn)
-
-### **Other Skills**
-- Data Cleaning  
-- Data Visualization  
-- KPI Reporting  
-- Dashboard Storytelling  
-- Problem-Solving & Critical Thinking  
+**Database**
+- SQL (MySQL)
 
 ---
 
-## 📁 Projects (In Progress)
-🔸 **Sales Dashboard – Power BI**  
-🔸 **Blinkit Analysis – Python**  
-🔸 **Inventory Management – Excel + SQL**  
-🔸 **Faculty Tracker – Real-time Dashboard**
-
-*(Projects are currently being finalized and will be uploaded soon.)*
+##  Featured Projects
 
 ---
 
-## 🎓 Education  
-**B.Sc. Computer Science — Sardar Patel University (2021–2024)**  
-Strong foundation in programming, databases, and analytical thinking.
+###  COVID-19 India Data Analysis
+
+**Tools:** Python | Pandas | Matplotlib
+
+**Situation**
+Government COVID datasets were separated across cases, testing, and vaccination data.
+
+**Task**
+Create a unified analytical dataset and generate insights.
+
+**Action**
+- Cleaned multiple datasets
+- Standardized state naming
+- Built KPIs and trends
+- Performed time-based and state-wise analysis
+
+**Result**
+Identified infection waves, testing efficiency, and vaccination coverage trends.
+
+ Repository: https://github.com/sonia-insights/covid-19-india-data-analysis
+
+---
+### Fraud Detection Analysis — Python**
+
+**Situation:**
+Financial transactions required monitoring to detect suspicious behavior.
+
+**Task:**
+Analyze transaction patterns to identify anomalies.
+
+***Action:**
+
+Explored transaction dataset
+
+Used visualization techniques for anomaly detection
+
+Compared behavioral patterns across transactions
+
+**Result:**
+
+Highlighted fraud-prone patterns
+
+Improved understanding of abnormal transactions
 
 ---
 
-## 📜 Certifications  
-- Excel for Data Analytics  
-- Power BI Essentials  
-- SQL for Beginners  
-- Python Basics for Data Analysis  
-*(More coming soon)*
+###  MatRisk AI – Material Risk Analysis
+
+**Tools:** Python | Data Analysis | Time Series
+
+**Situation**
+Commodity prediction models ignore material science signals.
+
+**Task**
+Analyze relationships between material properties and commodity prices.
+
+**Action**
+- Cleaned multi-domain datasets
+- Performed time-series analysis
+- Studied price volatility patterns
+
+**Result**
+Discovered cross-domain signals affecting commodity behavior.
 
 ---
 
-## 🌐 Connect With Me  
-📧 **Email:** sainisonia7472@gmail.com  
-📍 **Vadodara, Gujarat**
+### Inventory Management System — Advanced Excel
+
+**Situation:**
+Manual inventory tracking caused stock mismatches and inefficient monitoring.
+
+**Task:**
+Develop a system to track stock levels, product movement, and reorder requirements automatically.
+
+**Action:**
+
+Built automated inventory tracker using Advanced Excel
+
+Applied formulas, Pivot Tables, and data validation
+
+Designed stock monitoring and reorder alerts
+
+**Result:**
+
+Reduced manual tracking errors
+
+Improved inventory visibility
+
+Enabled faster stock decision-making
 
 ---
 
-<!--
-**sonia-insights/sonia-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BlinkIt Sales Analysis — Advanced Excel
 
-Here are some ideas to get you started:
+**Situation:**
+Business lacked insights into product and category-level sales performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Task:**
+Analyze sales data to identify top-performing products and demand patterns.
+
+**Action:**
+
+Cleaned sales dataset
+
+Created Pivot Tables and interactive dashboards
+
+Built charts for category and product comparison
+
+**Result:**
+
+Identified top-selling products
+
+Revealed demand trends
+
+Supported data-driven sales planning
+
+---
+### HR Attrition Analysis Dashboard — Power BI
+
+**Situation:**
+Organization lacked visibility into employee attrition causes.
+
+**Task:**
+Analyze workforce data and identify drivers of employee turnover.
+
+**Action:**
+
+Cleaned HR dataset
+
+Created DAX measures and KPIs
+
+Built interactive Power BI dashboard
+
+Visualized department, age, and salary patterns
+
+**Result:**
+
+Identified high-risk departments
+
+Highlighted demographic attrition trends
+
+Supported HR retention strategy decisions
+
+---
+
+### Airline Revenue Analytics — Data Analysis Project
+
+**Situation:**
+Airline operations lacked clear understanding of revenue performance across routes.
+
+**Task:**
+Evaluate revenue metrics and passenger trends.
+
+**Action:**
+
+Analyzed operational airline dataset
+
+Calculated load factor and revenue metrics
+
+Built visual performance reports
+
+**Result:**
+
+Identified profitable routes
+
+Highlighted seasonal demand trends
+
+Supported operational decision-making
+
+
+## GitHub Stats
+
+![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-insights&show_icons=true&theme=default)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-insights&layout=compact)
+
+---
+
+##  Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sonia-saini-
+
+-  Email: sainisonia7472@gmail.com
+
+---
+
+⭐ *Always learning, always building.*
