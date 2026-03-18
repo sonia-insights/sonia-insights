@@ -1,7 +1,7 @@
 <h1 align="center">Sonia Saini | Data Analyst Portfolio</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontSize=32&fontAlignY=40&animation=fadeIn"/>
 </p>
 
 ---
@@ -16,8 +16,7 @@
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-</p>
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=for-the-badge&color=blue">
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square"/>
 
 </p>
 
