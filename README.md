@@ -10,7 +10,7 @@
 </p>
 
 <p align="top left">
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=1F6FEB" width="300" height="400"/>
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=1F6FEB" width="200" height="200"/>
 
 </p>
 
