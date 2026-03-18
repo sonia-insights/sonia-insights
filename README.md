@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontSize=32&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
 </p>
 
 
@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=0A66C2" height="48"/>
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=0A66C2" width="120" height="48"/>
 
 </p>
 
@@ -33,8 +33,9 @@ Data Analyst focused on transforming raw datasets into meaningful insights using
 - Data Visualization & Reporting
 - Cross-domain analytics (Finance + Materials Intelligence)
 
-Currently working on  **MatRisk Project — Material Intelligence & Commodity
-** 
+Currently working on : 
+- MatRisk Project — Material Intelligence & Commodity
+- Customer Churn Analysis 
 ---
 
 ## Skills
@@ -117,24 +118,3 @@ Currently working on  **MatRisk Project — Material Intelligence & Commodity
 
 
  
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=140&section=header&text=Sonia%20|%20Data%20Analyst&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Python+%7C+SQL+%7C+Power+BI;Data+Analytics+Portfolio;Open+to+Data+Analyst+Opportunities">
-</p>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=0A66C2" height="48"/>
-
-</p>
