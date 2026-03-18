@@ -9,13 +9,14 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sonia-saini-">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
 <a href="mailto:sainisonia7472@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
+</p>
 <img src="https://komarev.com/ghpvc/?username=sonia-insights&style=for-the-badge&color=blue">
 
 </p>
@@ -32,30 +33,22 @@ Data Analyst focused on transforming raw datasets into meaningful insights using
 - Data Visualization & Reporting
 - Cross-domain analytics (Finance + Materials Intelligence)
 
-Currently working on **MatRisk Project — Material Intelligence & Commodity Forecasting**.
-
+Currently working on  **MatRisk Project — Material Intelligence & Commodity
+** 
 ---
 
 ## Skills
 
-### Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<p align="center">
 
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode"/>
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge">
 
-### Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
----
+</p>
 
 ## Portfolio Structure
 
@@ -116,13 +109,6 @@ Currently working on **MatRisk Project — Material Intelligence & Commodity For
 </p>
 
 ---
-## Connect
-
-LinkedIn: www.linkedin.com/in/sonia-saini-
-Email: sainisonia7472@gmail.com
-
----
-
 <p align="center">
 <i>Building data-driven solutions through analytics and storytelling.</i>
 </p>
