@@ -4,11 +4,16 @@
 </p>
 
 
-<p align="center">
+<p align="center" style="margin-top:-15px;">
+  
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
 
 <p align="top left">
+<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=1F6FEB" width="300" height="400"/>
+
+</p>
+
 
 <a href="https://www.linkedin.com/in/sonia-saini-">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
@@ -17,10 +22,6 @@
 <a href="mailto:sainisonia7472@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=1F6FEB" width="140" height="120"/>
-
-</p>
 
 
 ## About Me
@@ -121,31 +122,6 @@ Currently working on :
 <i>Building data-driven solutions through analytics and storytelling.</i>
 </p>
 
----
 
 
 
-<!real logo profile views bada krna hai and recuitment animated banner font change and thoda pass me krna hai >
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=150&section=header&text=Sonia%20Saini%20|%20Data%20Analyst&fontColor=ffffff&fontSize=34&fontAlignY=38&animation=fadeIn"/>
-</p>
-
-<p align="center" style="margin-top:-15px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=2800&pause=900&color=BBBBBB&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Opportunities"/>
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="28"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="28"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=333333"/>
-</p>
