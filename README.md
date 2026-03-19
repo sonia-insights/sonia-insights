@@ -117,9 +117,6 @@ Currently working on :
 </p>
 
 
-
-=====
-
 <p align="center">
 <img src="https://capsule-render.vercel.app"/>
 </p>
@@ -128,34 +125,35 @@ Currently working on :
 <img src="https://readme-typing-svg.herokuapp.com" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com" alt="Views" />
-</p>
-
+<!-- FLOATING CONTACT BAR -->
 <p align="center">
   <a href="https://www.linkedin.com"><img src="https://img.shields.io" /></a>
+  &nbsp;&nbsp;
   <a href="mailto:sainisonia7472@gmail.com"><img src="https://img.shields.io" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://img.shields.io" /></a>
 </p>
 
 ---
 
-## 💎 Current Focus: MatRisk AI 
-> **"Bridging the gap between raw commodity data and market risk insights."**
-I am currently engineering a data-structuring framework for **Commodity Intelligence**, focusing on time-series integration and volatility mapping using Python.
+## 🏗️ Current Project: MatRisk AI
+<p align="center">
+<img src="https://capsule-render.vercel.app"/>
+</p>
+
+> **Problem:** Disconnected material datasets hindered risk analysis.  
+> **Solution:** Engineered a Python-based pipeline for **Time-Series Volatility Analysis**.  
+> **Impact:** Unified fragmented data into a structured intelligence engine for better risk forecasting.
 
 ---
 
-## 🛠️ Technical Ecosystem
-<table align="center" style="border: 1px solid #1F6FEB;">
-  <tr style="background-color: #111111;">
-    <td align="center"><strong>Core Tech</strong></td>
-    <td align="center"><strong>Data Science</strong></td>
-    <td align="center"><strong>BI & Reporting</strong></td>
-  </tr>
+## 🛠️ Technical Ecosystem (Unified Layout)
+
+<table align="center" width="100%">
   <tr>
-    <td align="center"><img src="https://skillicons.dev" /></td>
-    <td align="center"><img src="https://skillicons.dev" /></td>
-    <td align="center"><img src="https://skillicons.dev" /></td>
+    <td align="center" width="33%"><img src="https://img.icons8.com"/><br><b>Python & Logic</b></td>
+    <td align="center" width="33%"><img src="https://img.icons8.com"/><br><b>SQL & Data</b></td>
+    <td align="center" width="33%"><img src="https://img.icons8.com"/><br><b>BI & Viz</b></td>
   </tr>
 </table>
 
@@ -163,17 +161,22 @@ I am currently engineering a data-structuring framework for **Commodity Intellig
 
 ## 🚀 High-Impact Portfolio
 
+<div align="center">
 
-| Project | Challenge | Solution | Impact |
-| :--- | :--- | :--- | :--- |
-| **MatRisk AI** | Disconnected Commodity Data | Python-based Time Series Pipeline | **Enabled Risk Volatility Insights** |
-| **Blinkit Retail** | Revenue visibility gaps | End-to-End Power BI Dashboard | **40% Manual Effort Reduction** |
-| **Walmart Sales** | Large-scale query latency | Advanced SQL (Joins/CTEs) | **Optimized Branch-wise Comparisons** |
-| **HR Attrition** | Employee turnover patterns | DAX Pattern Analysis | **Identified Churn Risk Factors** |
+
+| Project | Core Stack | Key Impact |
+| :--- | :--- | :--- |
+| **MatRisk AI** | `Python` `Pandas` | **Integrated multi-source commodity data** |
+| **Blinkit Retail** | `Power BI` `Excel` | **Identified top 20% SKUs driving 80% revenue** |
+| **Walmart Sales** | `MySQL` `Joins` | **Optimized branch performance comparisons** |
+| **HR Attrition** | `DAX` `Power Query` | **Uncovered key turnover drivers for retention** |
+
+</div>
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Performance Dashboard (Themed)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com" width="48%" />
@@ -186,19 +189,12 @@ I am currently engineering a data-structuring framework for **Commodity Intellig
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app." />
+  <img src="https://quotes-github-readme.vercel.app" />
 </p>
 
 <p align="center">
-  <i>Building the future of data-driven decision making.</i><br>
-  <b>Sonia Saini</b> | © 2024
-</p>
-
-
-
----
-<p align="center">
-<i>Building data-driven solutions through analytics and storytelling.</i>
+  <i>"Building data-driven stories from raw chaos."</i><br>
+  <b>Sonia Saini</b> | 2024
 </p>
 
 
