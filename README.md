@@ -121,25 +121,3 @@ Currently working on :
 
 
 
----
-
-## 📊 Analytics Dashboard
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app" width="48%" alt="Sonia's GitHub Stats" />
-  
-  <!-- Contribution Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com" width="48%" alt="Sonia's Streak" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app" width="60%" alt="Top Languages" />
-</p>
-
----
-
-
-
-
