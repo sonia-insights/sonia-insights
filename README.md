@@ -95,13 +95,9 @@ Currently working on :
 |---|---|---|---|---|---|
 
 | **HR Attrition Dashboard** | Organization lacked visibility into employee attrition causes | Analyze workforce data and identify drivers of employee turnover | Cleaned HR dataset, Created DAX measures and KPIs, Built interactive Power BI dashboard, Visualized department, age, and salary patterns| Identified high-risk departments, Highlighted demographic attrition trends, Supported HR retention strategy decisions |Power BI |
-
 | **COVID-19 Analysis** | Government COVID datasets were separated across cases, testing, and vaccination data. | Create a unified analytical dataset and generate insights. |  Cleaned multiple datasets, Standardized state naming, Built KPIs and trends, Performed time-based and state-wise analysis | Identified infection waves, testing efficiency, and vaccination coverage trends. | Python |
-
 | **Fraud Detection** | Financial transactions required monitoring to detect suspicious behavior | Analyze transaction patterns to identify anomalies | Explored transaction dataset,Used visualization techniques for anomaly detection, Compared behavioral patterns across transactions| Highlighted fraud-prone patterns, Improved understanding of abnormal transactions | Python |
-
 | **Inventory Management System** | Manual inventory tracking caused stock mismatches and inefficient monitoring | Develop a system to track stock levels, product movement, and reorder requirements automatically | Built automated inventory tracker using Advanced Excel,Applied formulas, Pivot Tables, and data validation, Designed stock monitoring and reorder alerts| Reduced manual tracking errors, Improved inventory visibility, Enabled faster stock decision-making | Excel |
-
 | **Airline Revenue Analytics** | Airline operations lacked clear understanding of revenue performance across routes | Evaluate revenue metrics and passenger trends | Analyzed operational airline dataset, Calculated load factor and revenue metrics, Built visual performance reports| Identified profitable routes, Highlighted seasonal demand trends, Supported operational decision-making| Python |
 
 ---
