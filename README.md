@@ -93,7 +93,6 @@ Currently working on :
 
 | Project | Situation | Task | Action | Result | Tools |
 |---|---|---|---|---|---|
-
 | **HR Attrition Dashboard** | Organization lacked visibility into employee attrition causes | Analyze workforce data and identify drivers of employee turnover | Cleaned HR dataset, Created DAX measures and KPIs, Built interactive Power BI dashboard, Visualized department, age, and salary patterns| Identified high-risk departments, Highlighted demographic attrition trends, Supported HR retention strategy decisions |Power BI |
 | **COVID-19 Analysis** | Government COVID datasets were separated across cases, testing, and vaccination data. | Create a unified analytical dataset and generate insights. |  Cleaned multiple datasets, Standardized state naming, Built KPIs and trends, Performed time-based and state-wise analysis | Identified infection waves, testing efficiency, and vaccination coverage trends. | Python |
 | **Fraud Detection** | Financial transactions required monitoring to detect suspicious behavior | Analyze transaction patterns to identify anomalies | Explored transaction dataset,Used visualization techniques for anomaly detection, Compared behavioral patterns across transactions| Highlighted fraud-prone patterns, Improved understanding of abnormal transactions | Python |
