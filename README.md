@@ -1,14 +1,21 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonia-insights/sonia-insights/main/BANNER.png" width="900px" height="250px" />
+</p>
 
+<!-----
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1F6FEB&height=180&section=header&text=Sonia%20Saini%20&fontColor=ffffff&fontSize=34&fontAlignY=35&animation=fadeIn"/>
 </p>
-
-
+---->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=34&duration=3000&pause=900&color=3A3A3A&center=true&vCenter=true&width=800&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analytics+Opportunities" />
+</p>
+<!---
 <p align="center" style="margin-top:-100px;">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=26&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=850&lines=Data+Analyst;Python+%7C+Power+BI+%7C+Excel+%7C+SQL;Turning+Data+Into+Business+Insights;Open+to+Data+Analyst+Opportunities" />
 </p>
-
+--->
 <p align="top left">
 <img src="https://komarev.com/ghpvc/?username=sonia-insights&style=flat-square&color=1F6FEB" width="200" height="200"/>
 
