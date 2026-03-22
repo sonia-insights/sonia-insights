@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonia-insights/sonia-insights/main/Banner1.png" width="900px" height="250px" />
+  <img src="https://raw.githubusercontent.com/sonia-insights/sonia-insights/main/Banner1.png" width="1500px" height="190px" />
 </p>
 
 <!-----
